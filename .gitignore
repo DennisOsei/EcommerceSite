@@ -17,3 +17,8 @@ $RECYCLE.BIN/
 
 # Visual Studio
 .vscode/
+
+# Elastic Beanstalk Files
+.elasticbeanstalk/*
+!.elasticbeanstalk/*.cfg.yml
+!.elasticbeanstalk/*.global.yml
